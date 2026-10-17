@@ -1,0 +1,11 @@
+{
+  "org": "pinecone-io",
+  "repo": "pinecone-python-client",
+  "versions": [
+    {
+      "commit": "0a97b36afe9ba86b7facf37946426414d888cd38",
+      "tag": "",
+      "parsed_at": "2026-10-17T07:58:24.543089+00:00"
+    }
+  ]
+}
