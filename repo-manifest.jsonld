@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pinecone-io/pinecone-python-client/commit/0a97b36afe9ba86b7facf37946426414d888cd38",
       "git:hexsha": "0a97b36afe9ba86b7facf37946426414d888cd38",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T07:58:24.541950+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pinecone-io/pinecone-python-client/commit/8d9aea1c65c664e499863ff1ec5403b2ea2b9e18",
